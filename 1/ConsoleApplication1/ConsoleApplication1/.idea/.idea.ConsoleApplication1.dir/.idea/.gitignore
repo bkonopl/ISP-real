@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.ConsoleApplication1.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\Users\bodya\Desktop\Лабы ИСП\1\ConsoleApplication1\ConsoleApplication1\.idea\.idea.ConsoleApplication1.dir\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
