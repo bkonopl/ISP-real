@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0079e217-d616-46bf-aa49-c433d298c92a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ConsoleApplication1/.idea/.idea.ConsoleApplication1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConsoleApplication1/.idea/.idea.ConsoleApplication1/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConsoleApplication1/.idea/.idea.ConsoleApplication1/.idea/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConsoleApplication1/.idea/.idea.ConsoleApplication1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConsoleApplication1/ConsoleApplication1.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConsoleApplication1/ConsoleApplication1/ConsoleApplication1.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConsoleApplication1/ConsoleApplication1/Info.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConsoleApplication1/ConsoleApplication1/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConsoleApplication1/ConsoleApplication1/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConsoleApplication1/ConsoleApplication1/Wrapper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApplication2.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApplication2/ConsoleApplication2.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApplication2/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApplication2/Properties/AssemblyInfo.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1qcUecOkuNQfG7GCkCg5WOalSVW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0079e217-d616-46bf-aa49-c433d298c92a" name="Default Changelist" comment="" />
+      <created>1617378470106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617378470106</updated>
+      <workItem from="1617378470708" duration="4000" />
+    </task>
+    <servers />
+  </component>
+</project>
