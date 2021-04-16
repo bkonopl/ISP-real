@@ -38,8 +38,11 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="PersonInfo.cs" />
+        <Compile Include="Sex.cs" />
         <Compile Include="Human.cs" />
         <Compile Include="LabWorker.cs" />
+        <Compile Include="Person.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Team.cs" />
         <Compile Include="Worker.cs" />

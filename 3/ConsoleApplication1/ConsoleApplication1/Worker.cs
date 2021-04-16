@@ -17,7 +17,7 @@ namespace ConsoleApplication1
             this.WorkPlace = other.WorkPlace;
             this.Money += this.Salary;
         }
-        public void GoToWork()
+        public virtual void GoToWork()
         {
             Console.WriteLine("Congratulations you get your salary : " + this.Salary);
         }

@@ -23,7 +23,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine(Ficha);
         }
-        new public void GoToWork()
+        public override void GoToWork()
         {
             Console.WriteLine("Make crazy items of the future!!!");
         }
